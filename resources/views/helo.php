@@ -11,3 +11,4 @@
     <h1>Sample</h1>
     <p><?php echo $message; ?></p>
 </body>
+</html>
